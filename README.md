@@ -14,7 +14,7 @@ Un grupo de repositorios interesantes de Odoo, tanto creados y mantenidos por Od
 * [Comunidad Odoo](https://github.com/OCA) - Repositorio de la comunidad oficial de Odoo.
 * [Herramientas financieras de Odoo](https://github.com/OCA/account-financial-reporting) - Herramientas de reporte financiero desarrollados por la comunidad.
 ## Repositorios Colombianos
-###Comunitarios
+### Comunitarios
 
 *Repositorios de empresas y particulares que trabajan en la localizacion colombiana.*
 
